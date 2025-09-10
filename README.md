@@ -39,38 +39,32 @@ Make sure you have the following installed:
 2.   ```bash
    git clone https://github.com/your-username/Analyzing-Dashboard.git
 Navigate to the project directory:
-
-cd Analyzing-Dashboard
+3.cd Analyzing-Dashboard
 
 
 Open the Power BI file (Dashboard.pbix) to view the interactive dashboard.
 
-If you want to run the Python model independently, execute the prediction model (Python code) for generating predicted sales data. You can use the following:
 
-python predict_sales.py
-
-
-Note: If the Python script isn't available, the prediction model will be integrated into Power BI via Python visual or custom queries.
+### Note: If the Python script isn't available, the prediction model will be integrated into Power BI via Python visual or custom queries.
 
 Refresh the dataset in Power BI to load the processed data and interact with the visualizations.
 
 Screenshots
-Dashboard Preview
+## Dashboard Preview
 
 <img width="593" height="327" alt="image" src="https://github.com/user-attachments/assets/b7e23bc4-4c5e-48a0-b183-08b749efa10d" />
 
 
 
-Contributing
+#### Contributing
 
 Feel free to fork this project and contribute by creating pull requests. Please make sure your changes pass tests and follow the project's style guide.
 
-License
-
+### License
 This project is licensed under the MIT License - see the LICENSE
  file for details.
 
-Contact
+### Contact
 
 For any questions or feedback, feel free to open an issue on GitHub or reach out to me via email.
 
